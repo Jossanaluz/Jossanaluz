@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [behance](https://www.behance.net/jossanaluz)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Designer Web, Marketing Digital**
+- 💬 Ask me about **React, JavaScript, HTML, CSS, Designer Web**
 
 - 📫 How to reach me **jossana.paulo@gmail.com**
 
